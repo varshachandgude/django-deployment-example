@@ -25,7 +25,7 @@ SECRET_KEY = '6(svx&b@x21w+h$p97q@ox!^m9epprh^3_h9af-poz1=w+f*_t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['varsha.pythonanywhere.com']
 
 
 # Application definition
@@ -121,4 +121,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 
-ALLOWED_HOSTS = ['varsha.pythonanywhere.com']
+
